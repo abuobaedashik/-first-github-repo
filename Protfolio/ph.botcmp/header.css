@@ -1,0 +1,31 @@
+
+.nav{
+  display: flex;
+  gap: 20px;
+  justify-content: space-between;
+  font-size: 30px;
+  padding-top: 20px;
+}
+img{
+  height: 30px;
+  width: 30px;
+}
+.header-container{
+  height: 100vh;
+  background-image:url(./picture/blue.jpg);
+  background-size:500px 1080px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.img{
+  width: 175px;
+  text-align: right;
+}
+.container{
+  padding:0px 40px;
+}
+.banner-text h1{
+  font-size: 96px;
+  font-weight: 500;
+  margin: 10px 5px;
+}
